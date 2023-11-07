@@ -1,7 +1,7 @@
 nav{
   padding-left: 25px;
   padding-right: 25px;
-  background-color: rgb(152, 222, 199);
+  background-color: rgb(28, 48, 100);
 }
 .banniere{
   background-image: url("asset/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg");
@@ -14,16 +14,19 @@ nav{
 }
 
 h1{
-  color: aliceblue;
+  color: rgb(229, 235, 239);
 }
 .section{
 height: 400px;
+justify-content: space-between;
+
 }
 
 .flex{
   display: flex;
   justify-content: space-between;
 }
+
 
 .image{
 width: 40%;
@@ -40,4 +43,155 @@ p{
   width: 50%;
 }
 
+.image1{
+  width: 40%;
+  height: 400px;
+  background-image: url("asset/pedram-normohamadian-_q4zr9i_IAs-unsplash.jpg");
+  background-size: contain;
+  
+  }
 
+  .image2{
+    width: 40%;
+    height: 400px;
+    background-image: url("asset/yannic-laderach-nwR9BCNgZJc-unsplash.jpg");
+    background-size: contain;
+    
+    }
+
+    .image3{
+      width: 40%;
+      height: 400px;
+      background-image: url("asset/taylor-dG4Eb_oC5iM-unsplash.jpg");
+      background-size: contain;
+      
+      }
+
+
+
+
+
+      .image4{
+        width: 40%;
+        height: 400px;
+        background-image: url("asset/khaled-ghareeb-n84s3jgzhKk-unsplash.jpg");
+        background-size: contain;
+        
+        }
+      
+      .image5{
+        width: 40%;
+        height: 400px;
+        background-image: url("asset/marcus-loke-xXJ6utyoSw0-unsplash.jpg");
+        background-size: contain;
+          
+          }
+      
+      .image6{
+         width: 40%;
+         height: 400px;
+         background-image: url("asset/jennifer-marquez-NYMDlpfum1Q-unsplash.jpg");
+        background-size: contain;
+            
+          }
+
+            
+            
+      .image7{
+        width: 40%;
+        height: 400px;
+        background-image: url("asset/terricks-noah-n9R0MN3XGvY-unsplash.jpg");
+        background-size: contain;
+              
+          }
+            
+      .image8{
+        width: 40%;
+        height: 400px;
+        background-image: url("asset/the-artist-studio-DzeQUEYRUOE-unsplash.jpg");
+        background-size: contain;
+                
+        }
+            
+      .image9{
+        width: 40%;
+        height: 400px;
+        background-image: url("asset/uby-yanes-Cbe9I1QDxJo-unsplash.jpg");
+        background-size: contain;
+                  
+        }
+
+
+
+
+        .image10{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/patrick-hendry-PQa5vHHnpm4-unsplash.jpg");
+          background-size: contain;
+                
+            }
+              
+        .image11{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/doudoune\ femmes.jpg");
+          background-size: contain;
+                  
+          }
+              
+        .image12{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/doudoune\ enfants.jpg");
+          background-size: contain;
+                    
+        }
+
+        .image13{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/dd\ short.jpg");
+          background-size: contain;
+                
+            }
+              
+        .image14{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/gggg.jpg");
+          background-size: contain;
+                  
+          }
+              
+        .image15{
+          width: 40%;
+          height: 400px;
+          background-image: url("asset/bbbb.jpg");
+          background-size: contain;
+                    
+        }
+
+        html{
+          background-color: rgb(45, 45, 92)
+        }
+
+        .aa{
+          color: aliceblue;
+        }
+
+        .bb{
+          color: aliceblue;
+        }
+  
+        .cc{
+          color: aliceblue;
+        }
+        
+        .dd{
+          color: aliceblue;
+        }
+
+        .ss{
+          color: aliceblue;
+        }
